@@ -1,0 +1,68 @@
+28 juin 2012 15:21:36 org.apache.catalina.core.AprLifecycleListener init
+INFO: The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: C:\liferay-portal-tomcat-6.0.6-20110225\liferay-portal-6.0.6\tomcat-6.0.29\jre1.6.0_20\win\bin;.;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files (x86)/Java/jre6/bin/client;C:/Program Files (x86)/Java/jre6/bin;C:/Program Files (x86)/Java/jre6/lib/i386;C:\PROGRAM FILES\COMMON FILES\MICROSOFT SHARED\WINDOWS LIVE;C:\PROGRAM FILES (X86)\COMMON FILES\MICROSOFT SHARED\WINDOWS LIVE;C:\PROGRAM FILES (X86)\HP SIMPLEPASS 2011\X64;C:\PROGRAM FILES (X86)\HP SIMPLEPASS 2011\;C:\PROGRAM FILES\BROADCOM\BROADCOM 802.11\DRIVER;C:\Windows\SYSTEM32;C:\Windows;C:\Windows\SYSTEM32\WBEM;C:\Windows\SYSTEM32\WINDOWSPOWERSHELL\V1.0\;C:\PROGRAM FILES (X86)\WINDOWS LIVE\SHARED;C:\PROGRAM FILES (X86)\ATI TECHNOLOGIES\ATI.ACE\CORE-STATIC;C:\PROGRAM FILES\WIDCOMM\BLUETOOTH SOFTWARE\;C:\PROGRAM FILES\WIDCOMM\BLUETOOTH SOFTWARE\SYSWOW64;;C:\PROGRAM FILES (X86)\INTEL\SERVICES\IPT\;C:\Program Files\Broadcom\WHL\;C:\Program Files\Broadcom\WHL\syswow64;C:\Program Files\Broadcom\WHL\SysWow64\;C:\Program Files\Broadcom\WHL\SysWow64\syswow64;C:\Program Files (x86)\Java\jdk1.6.0_27\bin;E:\wamp\bin\php\php5.3.9;C:\ZendFramework-1.11.11\bin;C:\PortableApps\SysinternalsSuite;C:\apache-ant-1.8.4\bin;C:\Users\iDev\Desktop\iDev\eclipse-jee-helios-SR2-win32\eclipse;
+28 juin 2012 15:21:36 org.apache.coyote.http11.Http11Protocol init
+INFO: Initialisation de Coyote HTTP/1.1 sur http-8080
+28 juin 2012 15:21:36 org.apache.catalina.startup.Catalina load
+INFO: Initialization processed in 1583 ms
+28 juin 2012 15:21:36 org.apache.catalina.core.StandardService start
+INFO: Démarrage du service Catalina
+28 juin 2012 15:21:36 org.apache.catalina.core.StandardEngine start
+INFO: Starting Servlet Engine: Apache Tomcat/6.0.29
+28 juin 2012 15:21:36 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration portabl004.xml
+28 juin 2012 15:21:38 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration portlet005.xml
+28 juin 2012 15:21:39 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration ROOT.xml
+28 juin 2012 15:22:32 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire chat-portlet de l'application web
+28 juin 2012 15:22:34 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire default-site-templates-hook de l'application web
+28 juin 2012 15:22:35 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire google-maps-portlet de l'application web
+28 juin 2012 15:22:35 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire kaleo-web de l'application web
+28 juin 2012 15:22:39 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire mail-portlet de l'application web
+28 juin 2012 15:22:42 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire opensocial-portlet de l'application web
+28 juin 2012 15:22:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire sevencogs-hook de l'application web
+28 juin 2012 15:22:50 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire sevencogs-mobile-theme de l'application web
+28 juin 2012 15:22:51 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire sevencogs-theme de l'application web
+28 juin 2012 15:22:52 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire social-networking-portlet de l'application web
+28 juin 2012 15:22:53 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire tunnel-web de l'application web
+28 juin 2012 15:22:55 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire web-form-portlet de l'application web
+28 juin 2012 15:22:56 org.apache.catalina.startup.HostConfig deployDirectory
+INFO: Déploiement du répertoire wsrp-portlet de l'application web
+28 juin 2012 15:22:59 org.apache.coyote.http11.Http11Protocol start
+INFO: Démarrage de Coyote HTTP/1.1 sur http-8080
+28 juin 2012 15:22:59 org.apache.jk.common.ChannelSocket init
+INFO: JK: ajp13 listening on /0.0.0.0:8009
+28 juin 2012 15:22:59 org.apache.jk.server.JkMain start
+INFO: Jk running ID=0 time=0/50  config=null
+28 juin 2012 15:22:59 org.apache.catalina.startup.Catalina start
+INFO: Server startup in 82717 ms
+28 juin 2012 15:29:49 org.apache.catalina.startup.HostConfig deployDescriptor
+INFO: Déploiement du descripteur de configuration portelt001-portlet.xml
+28 juin 2012 15:29:49 org.apache.catalina.startup.HostConfig deployDescriptor
+ATTENTION: A docBase C:\liferay-portal-tomcat-6.0.6-20110225\liferay-portal-6.0.6\tomcat-6.0.29\webapps\portelt001-portlet inside the host appBase has been specified, and will be ignored
+28 juin 2012 15:37:34 org.apache.coyote.http11.Http11Protocol pause
+INFO: Suspension de Coyote HTTP/1.1 sur http-8080
+28 juin 2012 15:37:35 org.apache.catalina.core.StandardService stop
+INFO: Arrêt du service Catalina
+28 juin 2012 15:37:37 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/wsrp-portlet] created a ThreadLocal with key of type [org.apache.axis.utils.XMLUtils.ThreadLocalDocumentBuilder] (value [org.apache.axis.utils.XMLUtils$ThreadLocalDocumentBuilder@16f0153]) and a value of type [com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl] (value [com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderImpl@bff2ee]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+28 juin 2012 15:37:37 org.apache.catalina.loader.WebappClassLoader clearReferencesThreads
+GRAVE: The web application [/opensocial-portlet] appears to have started a thread named [com.google.inject.internal.Finalizer] but has failed to stop it. This is very likely to create a memory leak.
+28 juin 2012 15:37:37 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/opensocial-portlet] created a ThreadLocal with key of type [null] (value [org.apache.shindig.common.xml.XmlUtil$2@1b7ede9]) and a value of type [org.apache.xerces.jaxp.DocumentBuilderImpl] (value [org.apache.xerces.jaxp.DocumentBuilderImpl@64661c]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+28 juin 2012 15:37:37 org.apache.catalina.loader.WebappClassLoader clearThreadLocalMap
+GRAVE: The web application [/opensocial-portlet] created a ThreadLocal with key of type [null] (value [com.google.inject.InjectorImpl$1@16bc0ac]) and a value of type [java.lang.Object[]] (value [[Ljava.lang.Object;@1367486]) but failed to remove it when the web application was stopped. This is very likely to create a memory leak.
+28 juin 2012 15:37:37 org.apache.coyote.http11.Http11Protocol destroy
+INFO: Arrêt de Coyote HTTP/1.1 sur http-8080
